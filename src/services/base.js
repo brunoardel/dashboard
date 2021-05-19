@@ -1,1 +1,1 @@
-export const URL_API = '/mocks';
+export const URL_API = 'mocks';
