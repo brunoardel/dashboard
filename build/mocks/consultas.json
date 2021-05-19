@@ -1,0 +1,166 @@
+{
+  "realizadas": [
+    {
+      "especialidade": "Angiologia",
+      "quantidade": 7
+    },
+    {
+      "especialidade": "Dermatologia",
+      "quantidade": 3
+    },
+    {
+      "especialidade": "Oftalmologia",
+      "quantidade": 5
+    },
+    {
+      "especialidade": "Cardiologia",
+      "quantidade": 8
+    },
+    {
+      "especialidade": "Gastroenterologia",
+      "quantidade": 7
+    },
+    {
+      "especialidade": "Otorrinolaringologia",
+      "quantidade": 1
+    },
+    {
+      "especialidade": "Cirurgia Geral",
+      "quantidade": 1
+    },
+    {
+      "especialidade": "Ginecologia",
+      "quantidade": 9
+    },
+    {
+      "especialidade": "Pediatria",
+      "quantidade": 8
+    },
+    {
+      "especialidade": "Cirurgia Pediátrica",
+      "quantidade": 42
+    },
+    {
+      "especialidade": "Cirurgia Plástica",
+      "quantidade": 1
+    },
+    {
+      "especialidade": "Pneumologia",
+      "quantidade": 2
+    },
+    {
+      "especialidade": "Cirurgia Torácia",
+      "quantidade": 24
+    },
+    {
+      "especialidade": "Nefrologia",
+      "quantidade": 65
+    },
+    {
+      "especialidade": "Proctologia",
+      "quantidade": 35
+    },
+    {
+      "especialidade": "Clínica Médica",
+      "quantidade": 32
+    },
+    {
+      "especialidade": "Neurologia",
+      "quantidade": 11
+    },
+    {
+      "especialidade": "Psiquiatria",
+      "quantidade": 96
+    },
+    {
+      "especialidade": "Nutrição",
+      "quantidade": 42
+    },
+    {
+      "especialidade": "Urologia",
+      "quantidade": 7
+    }
+  ],
+  "marcadas": [
+    {
+      "especialidade": "Angiologia",
+      "quantidade": 11
+    },
+    {
+      "especialidade": "Dermatologia",
+      "quantidade": 7
+    },
+    {
+      "especialidade": "Oftalmologia",
+      "quantidade": 7
+    },
+    {
+      "especialidade": "Cardiologia",
+      "quantidade": 2
+    },
+    {
+      "especialidade": "Gastroenterologia",
+      "quantidade": 1
+    },
+    {
+      "especialidade": "Otorrinolaringologia",
+      "quantidade": 12
+    },
+    {
+      "especialidade": "Cirurgia Geral",
+      "quantidade": 17
+    },
+    {
+      "especialidade": "Ginecologia",
+      "quantidade": 9
+    },
+    {
+      "especialidade": "Pediatria",
+      "quantidade": 9
+    },
+    {
+      "especialidade": "Cirurgia Pediátrica",
+      "quantidade": 44
+    },
+    {
+      "especialidade": "Cirurgia Plástica",
+      "quantidade": 16
+    },
+    {
+      "especialidade": "Pneumologia",
+      "quantidade": 28
+    },
+    {
+      "especialidade": "Cirurgia Torácia",
+      "quantidade": 12
+    },
+    {
+      "especialidade": "Nefrologia",
+      "quantidade": 21
+    },
+    {
+      "especialidade": "Proctologia",
+      "quantidade": 1
+    },
+    {
+      "especialidade": "Clínica Médica",
+      "quantidade": 77
+    },
+    {
+      "especialidade": "Neurologia",
+      "quantidade": 27
+    },
+    {
+      "especialidade": "Psiquiatria",
+      "quantidade": 85
+    },
+    {
+      "especialidade": "Nutrição",
+      "quantidade": 75
+    },
+    {
+      "especialidade": "Urologia",
+      "quantidade": 77
+    }
+  ]
+}

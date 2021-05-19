@@ -1,0 +1,16 @@
+{
+  "consultas": {
+    "consultas_30dias_anteriores": 789,
+    "consultas_30dias_posteriores": 885
+  },
+  "faturamento": {
+    "anterior": {
+      "valor": 1354208.25,
+      "comparativo": 14
+    },
+    "previsao": {
+      "valor": 1554302.72,
+      "comparativo": 21
+    }
+  }
+}
