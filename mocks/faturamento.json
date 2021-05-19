@@ -1,0 +1,16 @@
+{
+  "detalhamento": [
+    {
+      "descricao": "Débito",
+      "valor": 789548.79
+    },
+    {
+      "descricao": "Crédito",
+      "valor": 18948.99
+    },
+    {
+      "descricao": "Transferência",
+      "valor": 55241.0
+    }
+  ]
+}
