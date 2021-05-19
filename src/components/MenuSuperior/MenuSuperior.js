@@ -5,7 +5,7 @@ class MenuSuperior extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-        <Link to="/" className="navbar-brand">
+        <Link to="/dashboard" className="navbar-brand">
           Dashboard React
         </Link>
         <button
@@ -19,17 +19,17 @@ class MenuSuperior extends Component {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item">
-              <Link to="/" className="nav-link">
+              <Link to="/dashboard" className="nav-link">
                 Resumo
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/consultas" className="nav-link">
+              <Link to="/dashboard/consultas" className="nav-link">
                 Consultas
               </Link>
             </li>
             <li className="nav-item">
-              <Link to="/faturamento" className="nav-link">
+              <Link to="/dashboard/faturamento" className="nav-link">
                 Faturamento
               </Link>
             </li>

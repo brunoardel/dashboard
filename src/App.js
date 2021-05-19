@@ -15,9 +15,17 @@ class App extends Component {
           <div className="row">
             <div className="col">
               <Switch>
-                <Route path="/consultas" component={Consultas} />
-                <Route path="/faturamento" component={Faturamento} />
-                <Route path="/" component={Resumo} />
+                <Route
+                  exact
+                  path="/dashboard/consultas"
+                  component={Consultas}
+                />
+                <Route
+                  exact
+                  path="/dashboard/faturamento"
+                  component={Faturamento}
+                />
+                <Route exact path="/dashboard" component={Resumo} />
               </Switch>
             </div>
           </div>
